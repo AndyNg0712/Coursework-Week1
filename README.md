@@ -15,7 +15,7 @@ Create new class '.benefit-item h3'
 3. Save and check the website. Screen shot 'change benefit-item h3 CSS and HTML file'
 4. Push to github to finish "submit change to 'benefit-item h3"
 
-Create new class '.benefit-item image'
+Create new class '.benefit-item img'
 1. create new class '.benefit-item img' to group old classes '.benefit-lead img', '.benefit-brand img', '.benefit-cost img'.
 2. Reason: tidy up the code from 3 classes into 1 class, also it will help CSS files to target the correct <div class="benefit-item img"> in html file.
 3. Save and check the website. Screen shot 'change benefit-item img CSS and HTML file'
@@ -27,3 +27,9 @@ Create new class '.content-item'
 3. CSS cannot target class ".content-item" in index.html, we need to change <div class="search-engin-optimization">, <div class="online-repuation-management">, <div class="social-media-marketing"> to <div class="content-item">. 
 4. Save and check the website. Screen shot 'change content-item Css html'
 5. Push to github to finish "change content-item"
+
+Create new class '.content-item img'
+1. create new class '.content-item img' to group old classes '.search-engine-optimization img', '.online-reputation-management img', '.social-media-marketing img'.
+2. Reason: tidy up the code from 3 classes into 1 class, also it will help CSS files to target the correct <div class="content-item img"> in html file. 
+3. Save and check the website. Screen shot 'change content-item img CSS and HTML file'
+4. Push to github to finish "submit change to 'change content-item img"

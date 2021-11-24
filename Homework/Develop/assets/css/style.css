@@ -191,7 +191,7 @@ text-align: center;
     color: #ffffff;
 }
 
-
+/* 
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -201,6 +201,11 @@ text-align: center;
 }
 
 .social-media-marketing img {
+    max-height: 200px;
+} */
+
+
+.content-item img {
     max-height: 200px;
 }
 
