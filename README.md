@@ -11,7 +11,12 @@ Create new class '.benefit-item'
 
 Create new class '.benefit-item h3'
 1. create new class '.benefit-item h3' to group old classes '.benefit-lead h3', '.benefit-brand h3', '.benefit-cost h3'.
-2. Reason: tidy up the code from 3 classes into 1 class, also it will help CSS files to target the correct <div> in html file. 
+2. Reason: tidy up the code from 3 classes into 1 class, also it will help CSS files to target the correct <div class="benefit-item h3"> in html file. 
 3. Save and check the website. Screen shot 'change benefit-item h3 CSS and HTML file'
 4. Push to github to finish "benefit-item h3"
 
+Create new class '.benefit-item image'
+1. create new class '.benefit-item img' to group old classes '.benefit-lead img', '.benefit-brand img', '.benefit-cost img'.
+2. Reason: tidy up the code from 3 classes into 1 class, also it will help CSS files to target the correct <div class="benefit-item img"> in html file.
+3. Save and check the website. Screen shot 'change benefit-item img CSS and HTML file'
+4. Push to github to finish "benefit-item img"
