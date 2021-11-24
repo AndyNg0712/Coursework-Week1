@@ -18,7 +18,7 @@ Create new class '.benefit-item h3'
 Create new class '.benefit-item img'
 1. create new class '.benefit-item img' to group old classes '.benefit-lead img', '.benefit-brand img', '.benefit-cost img'.
 2. Reason: tidy up the code from 3 classes into 1 class, also it will help CSS files to target the correct <div class="benefit">,<img> in html file.
-3. Save and check the website. Screen shot 'change and group benefit-item img CSS'
+3. Save and check the website. Screen shot 'change and group cbenefit-item img CSS'
 4. Push to github to finish "submit change to 'benefit-item img'
 
 Create new class '.content-item'
@@ -39,3 +39,9 @@ Create new class '.content-item h2'
 2. Reason: tidy up the code from 3 classes into 1 class, also it will help CSS files to target the correct <div class="content-item">,<h2> in html file. 
 3. Save and check the website. Screen shot 'change and group content-item h2 CSS'
 4. Push to github to finish "submit change to 'change content-item h2"
+
+Rearrange CSS order for "benefit" and "content" 
+1. Create work flow in HTML and CSS, also put everthing in oder will help us to idetify the problem. 
+
+Fix broken link
+1. Insert <div id="search-engine-optimization"> to <div class="hero">, <div class="content">, to create a link from <div class="header"> <a href="#search-engine-optimization">. 
