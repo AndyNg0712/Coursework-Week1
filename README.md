@@ -93,12 +93,14 @@ to create a link from
 
 https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/fix-broken-link.png
 
->Add alt message
+>HTML missing  'alt'
+1. Adding:
 ```
 alt="message" in each img. 
 ```
-Screen Shot 
+Screen Shot 'add-alt-message'
 
+https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/add-alt-message.png
 
 
 >Finished
