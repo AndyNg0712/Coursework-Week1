@@ -1,13 +1,17 @@
 1. Create a new repository on Github account and clone back to my computer. 
 2. Use the 'git add', 'git commit', and 'git push' commands to save and push my code to my Github repository. 
-3. Original page before changing. (./Assets/01-html-css-git-homework-demo.png)
+3. Use 'git pull' original page before changing. (./Assets/01-html-css-git-homework-demo.png)
 
 Create new class '.benefit-item'
 1. create new class '.benefit-item' to group old classes '.benefit-lead', '.benefit-brand', '.benefit-cost'.
 2. Reason: tidy up the code from 3 classes into 1 class.
-3. CSS cannot target class "benefit-item" in index.html, we need to change <div class="benefit-lead">, <div class="benefit-brand">, <div class="benefit-cost"> to <div class="benefit-item">. 
+3. CSS cannot target class "benefit-item" in index.html, we need to change 
+! [alt text] <div class="benefit-lead">, <div class="benefit-brand">, <div class="benefit-cost"> to <div class="benefit-item">. ! [alt text]
+
 4. Save and check the website. Screen shot 'create benefit-item css html'
 5. Push to github to finish "benefit-item"
+! [alt text] (./assets/screen-shot-coursework-week1/fix-broken-link.png)
+
 
 Create new class '.benefit-item h3'
 1. create new class '.benefit-item h3' to group old classes '.benefit-lead h3', '.benefit-brand h3', '.benefit-cost h3'.
