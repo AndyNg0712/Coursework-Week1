@@ -21,7 +21,9 @@ Create new class '.benefit-item h3'
 <div class="benefit-item">, <h3> in html file. 
 ```
 3. Save and check the website. Screen shot 'change and group benefit-item h3 CSS'
-![alt text] Homework/Assets/Screen-shot-Coursework-week1/change-and-group-benefit-item-h3-CSS.png
+
+![alt text] (https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/change-and-group-benefit-item-h3-CSS.png?raw=true)
+
 
 4. Push to github to finish "submit change to 'benefit-item h3"
 
