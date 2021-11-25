@@ -106,5 +106,7 @@ https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-
 
 https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Develop/index.html
 
+https://andyng0712.github.io/Coursework-Week1/
+
 
 >Finished
