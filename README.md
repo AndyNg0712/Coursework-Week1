@@ -45,3 +45,7 @@ Rearrange CSS order for "benefit" and "content"
 
 Fix broken link
 1. Insert <div id="search-engine-optimization"> to <div class="hero">, <div class="content">, to create a link from <div class="header"> <a href="#search-engine-optimization">. 
+
+Add alt="message" in each img. 
+
+Finished
