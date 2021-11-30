@@ -12,7 +12,7 @@
 ```
 4. Save and check the website. Screen shot 'create-benefit-item-css-html'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/create-benefit-item-CSS-HTML.png
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/create-benefit-item-CSS-HTML.png?raw=true)
 
 5. Push to github to finish "benefit-item"
 
@@ -24,7 +24,7 @@ https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-
 ```
 3. Save and check the website. Screen shot 'change-and-group-benefit-item-h3-CSS'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/change-and-group-benefit-item-h3-CSS.png?raw=true
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/change-and-group-benefit-item-h3-CSS.png?raw=true)
 
 4. Push to github to finish "submit change to 'benefit-item h3"
 
@@ -36,7 +36,7 @@ https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-
 ```
 3. Save and check the website. Screen shot 'change-and-group-benefit-item-img-CSS'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/change-and-group-benefit-item-img-in-css.png
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/change-and-group-benefit-item-img-in-css.png?raw=true)
 
 4. Push to github to finish "submit change to 'benefit-item img'
 
@@ -51,7 +51,7 @@ to
 ```
 4. Save and check the website. Screen shot 'create-content-item-Css-html'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/create-content-item-CSS-HTML.png
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/create-content-item-CSS-HTML.png?raw=true)
 
 5. Push to github to finish "change content-item"
 
@@ -63,7 +63,7 @@ https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-
 ```
 3. Save and check the website. Screen shot 'change-and-group-content-item-img-CSS'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/change-and-group-content-item-img-css.png
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/change-and-group-content-item-img-css.png?raw=true)
 
 4. Push to github to finish "submit change to 'change content-item img"
 
@@ -80,7 +80,7 @@ https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-
 1. Create work flow in HTML and CSS, also put everthing in oder will help us to idetify the problem. 
 2. Screen shot 'changing-order-in-css-between-content-and-benefit.png'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/changing-order-in-css-betweeen-content-and-benefit.png
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/changing-order-in-css-betweeen-content-and-benefit.png?raw=true)
 
 >Fix broken link
 1. Insert 
@@ -91,7 +91,7 @@ to create a link from
 ```
 2. Screen shot 'fix-borken-link'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/fix-broken-link.png
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/fix-broken-link.png?raw=true)
 
 >HTML missing  'alt'
 1. Adding:
@@ -100,11 +100,9 @@ alt="message" in each img.
 ```
 Screen Shot 'add-alt-message'
 
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/add-alt-message.png
+![alt text](https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Assets/Screen-shot-Coursework-week1/add-alt-message.png?raw=true)
 
 > Link to deploy application
-
-https://github.com/AndyNg0712/Coursework-Week1/blob/main/Homework/Develop/index.html
 
 https://andyng0712.github.io/Coursework-Week1/Homework/Develop/index.html
 
